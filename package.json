@@ -1,0 +1,19 @@
+{
+  "name": "iot_front",
+  "version": "1.0.0",
+  "description": "IoT frontend with quasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelfonseca/iot_front.git"
+  },
+  "author": "Angel Isaac Fonseca Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelfonseca/iot_front/issues"
+  },
+  "homepage": "https://github.com/Angelfonseca/iot_front#readme"
+}
